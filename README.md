@@ -1,0 +1,4 @@
+chartfair
+=========
+
+Chart anything
